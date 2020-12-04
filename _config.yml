@@ -30,6 +30,16 @@ github_username:  yjtek
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  - jekyll-include-cache
+permalink: /:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
