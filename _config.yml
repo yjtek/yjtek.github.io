@@ -16,7 +16,7 @@ defaults:
     values:
       title: YJ's Blog
 
-description: Often wrong, sometimes useful
+description: Always wrong, sometimes useful
 author:
   name: Yong Jian
   email: yongjian.tek@gmail.com
@@ -24,7 +24,7 @@ author:
   twitter: yjtek1
   # pinterest: asd123
   linkedin: tekyongjian
-  bio: Often wrong, sometimes useful
+  bio: Always wrong, sometimes useful
   # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
