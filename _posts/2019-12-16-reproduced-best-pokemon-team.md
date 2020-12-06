@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokemon team optimisation
+title: Pokemon Team Optimisation
 categories: []
 tags: []
 description: Does the selection of pokemon teams reach a Nash Equilibrium upon optimal information?

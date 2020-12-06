@@ -18,15 +18,15 @@ defaults:
     values:
       title: YJ's Blog
 
-description: Probably wrong, occasionally useful
+description: Half useful information
 author:
-  name: Yong Jian
+  name: YJ
   email: yongjian.tek@gmail.com
   github: yjtek
   twitter: yjtek1
   # pinterest: asd123
   linkedin: tekyongjian
-  bio: Probably wrong, occasionally useful
+  bio: Half useful information
   # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
