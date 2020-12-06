@@ -1,0 +1,1 @@
+jupyter nbconvert --to=markdown 2019-11-30-reproduced-spurious-correlations-and-random-walks.ipynb
