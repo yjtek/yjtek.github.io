@@ -1,7 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+@import url(//fonts.googleapis.com/css2?family=Varela&display=swap);
+
+
 
 body{
 	color: #2c3e50;
+	background-color: #F9F9F9;
+	/*background-color: #FFFFFF;*/
 }
 
 .sidebar {
@@ -60,13 +65,13 @@ article .share .twitter:hover {
 	color: #1D87BD;
 }
 #contact-list li:hover .fa-envelope {
-	color: #E93E30;
+	color: #a61c3c;
 }
 #contact-list li:hover .fa-pinterest {
 	color: #CC2127;
 }
 #contact-list li:hover .fa-rss {
-	color: #e74c3c;
+	color: #f4ac45;
 }
 article .share .facebook:hover {
 	color: #43609C;
@@ -82,7 +87,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #a61c3c;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -130,13 +135,13 @@ article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #f2756a;
+	color: #474747;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+	color: #141414;
 }
 
 .author .author-image {
