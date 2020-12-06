@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: YJ's Blog
+      title: Yong Jian
 
 description: Probably wrong, sometimes useful
 author:
