@@ -181,7 +181,7 @@ metropolis_algo_multiDim(student_results, proposed_mu = 10, proposed_sigma = 100
 
 
     
-![png](/images/ 2020-03-03-markov-chain-monte-carlo-mcmc-gibbs-sampling_files/2020-03-03-markov-chain-monte-carlo-mcmc-gibbs-sampling_6_0.png)
+![png](/images/2020-03-03-markov-chain-monte-carlo-mcmc-gibbs-sampling_files/2020-03-03-markov-chain-monte-carlo-mcmc-gibbs-sampling_6_0.png)
     
 
 
